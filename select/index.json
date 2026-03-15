@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アカイト",
+  "base_artist": "りぶ",
+  "createdAt": "2026-03-15T22:19:32.497930Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アカイト",
+      "artist": "りぶ",
+      "has_synced": false,
+      "path": "select/pl_01_アカイト_りぶ.txt"
+    }
+  ]
+}
